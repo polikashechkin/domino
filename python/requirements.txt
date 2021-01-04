@@ -1,0 +1,6 @@
+redis
+psutil
+arrow
+barcodenumber
+XlsxWriter
+lxml
